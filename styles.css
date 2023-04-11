@@ -305,7 +305,9 @@ width:100%;
 border-radius: 10px;
 border: 1px solid rgba(0, 0, 0, 0.5);
 }
-
+.cha_image {
+    border-radius:10px;
+}
 .tooltip {
 position: relative;
 display: inline-block;
